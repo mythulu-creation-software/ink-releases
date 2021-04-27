@@ -1,7 +1,7 @@
 ---
 ---
 
-@import "{{ site.theme}}"
+@import "{{ site.theme }}";
 
 # Welcome to Ink
 
