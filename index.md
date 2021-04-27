@@ -1,3 +1,8 @@
+---
+---
+
+@import "{{ site.theme}}"
+
 # Welcome to Ink
 
 (WIP)
